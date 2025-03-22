@@ -107,6 +107,3 @@ The dashboard is structured into **two levels** based on analytical depth:
 - Email: [sujandulal151@gmail.com]
 
 Feel free to reach out for questions or suggestions.
-
-
-This dashboard provides insights into student performance based on various metrics and visualizations created using Power BI.
