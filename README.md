@@ -102,7 +102,7 @@ The dashboard is structured into **two levels** based on analytical depth:
 
 ## 📧 Contact 
 
-- Your Name: [Sujan Dulal]
+- Sujan Dulal
 - GitHub: [Sujan17-dulal](https://github.com/Sujan17-dulal)
 - Email: [sujandulal151@gmail.com]
 
